@@ -6,7 +6,7 @@ Welcome to my GitHub page! Each day I create beautiful web-products using best p
 
 ### &#128222; Сontacts:
 
-[![](/icons/mail-ios.svg)](alexey-step@mail.ru) [![](/icons/linkedin-icon.svg)](https://www.linkedin.com/in/aleksey-stepanov-318a10200/) [![](/icons/github-icon-1.svg)](https://github.com/Alexey-step) [![](/icons/telegram.svg)](@Alexey_academy)
+[![](/icons/mail-ios.svg)](alexey-step@mail.ru) [![](/icons/linkedin-icon.svg)](https://www.linkedin.com/in/aleksey-stepanov-318a10200/) [![](/icons/github.svg)](https://github.com/Alexey-step) [![](/icons/telegram.svg)](@Alexey_academy)
 
 ---
 
