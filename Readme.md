@@ -6,7 +6,7 @@ Welcome to my GitHub page! Each day I create beautiful web-products using best p
 
 ### &#128222; Сontacts:
 
-[![](/mail-ios.svg)](alexey-step@mail.ru) [![](/linkedin-icon.svg)](https://www.linkedin.com/in/aleksey-stepanov-318a10200/) [![](/github-icon-1.svg)](https://github.com/Alexey-step) [![](/telegram.svg)](@Alexey_academy)
+[![](/icons/mail-ios.svg)](alexey-step@mail.ru) [![](/icons/linkedin-icon.svg)](https://www.linkedin.com/in/aleksey-stepanov-318a10200/) [![](/icons/github-icon-1.svg)](https://github.com/Alexey-step) [![](/icons/telegram.svg)](@Alexey_academy)
 
 ---
 
@@ -20,7 +20,7 @@ Welcome to my GitHub page! Each day I create beautiful web-products using best p
 - Code bundlers: Gulp, Webpack;
 - UX/UI: Figma, Adobe Illustrator
 
-[![](/react-2.svg)](https://ru.reactjs.org/) [![](/redux.svg)](https://redux.js.org/) [![](/logo-javascript.svg)](https://www.javascript.com/) [![](/typescript.svg)](https://www.typescriptlang.org/) [![](/html5-2.svg)](https://html5.org/) [![](/less.svg)](https://lesscss.org/) [![](/sass-1.svg)](https://sass-lang.com/) [![](/webpack-icon.svg)](https://webpack.js.org/) [![](/gulp-1.svg)](https://gulpjs.com/) [![](/figma-1.svg)](https://www.figma.com/)
+[![](/icons/react-2.svg)](https://ru.reactjs.org/) [![](/icons/redux.svg)](https://redux.js.org/) [![](/icons/logo-javascript.svg)](https://www.javascript.com/) [![](/icons/typescript.svg)](https://www.typescriptlang.org/) [![](/icons/html5-2.svg)](https://html5.org/) [![](/icons/less.svg)](https://lesscss.org/) [![](/icons/sass-1.svg)](https://sass-lang.com/) [![](/icons/webpack-icon.svg)](https://webpack.js.org/) [![](/icons/gulp-1.svg)](https://gulpjs.com/) [![](/icons/figma-1.svg)](https://www.figma.com/)
 
 ## &#127891; Currently learning:
 
