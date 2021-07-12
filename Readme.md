@@ -1,4 +1,4 @@
-## #&#128075; _Hi, I'm Alexey Stepanov, Frontend developer based in Russia_
+## &#128075; _Hi, I'm Alexey Stepanov, Frontend developer based in Russia_
 
 Welcome to my GitHub page! Each day I create beautiful web-products using best practices and modern technologies. Here you can find some of my projects.
 
